@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @GreatSnoopyMe
-- This account is a starter of my REAL github life
-- 👀 I’m interested in 修仙
-- 🌱 I’m currently learning ML, RL
-- 📫 my email is umlty@umich.edu
-- 
-
+- I am a first year Master Student at UCSD ECE in Machine Learning a$ Data Science
+- My interests aligns in "Building AI powered applications"
+- This main page is under construction!
+  
